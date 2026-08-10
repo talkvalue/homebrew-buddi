@@ -1,6 +1,6 @@
 cask "buddi" do
-  version "0.1.3"
-  sha256 "5c761856566e8ecba919f088e06b7b72ba261343ebd0eb791d209ad4e2522857"
+  version "0.1.4"
+  sha256 "d4751cb8b56a922f9fb1a4e2ea2370bfd3cfed56a7a19a1a02137bca79c649b2"
 
   url "https://github.com/talkvalue/Buddi/releases/download/v#{version}/buddi-#{version}.dmg"
   name "Buddi"
